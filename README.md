@@ -7,3 +7,7 @@ I just want to try Github and how to use it. Hope so.
 Watch what? UPDATEEEEEEE
 
 Try 333333 HEHEHEHEHEHHE
+
+## Local Development 
+
+1. Open index blabla
