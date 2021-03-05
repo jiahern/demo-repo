@@ -24,10 +24,7 @@ Try 333333 HEHEHEHEHEHHE
 
 
 6. Git test 2
-<<<<<<< HEAD
 7. Really match?
-=======
 7. 
 8.
 9.
->>>>>>> 407c24137e6fcbe41c8921d9d4f3c5328d8f8aec
