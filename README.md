@@ -1,6 +1,5 @@
 # Demo
 Hehe
-bababa
 I just want to try Github and how to use it. Hope so.
 
 ## Subheader
@@ -24,6 +23,3 @@ Try 333333 HEHEHEHEHEHHE
 
 
 6. Git test 2
-7. 
-8.
-9.
